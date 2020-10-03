@@ -1,3 +1,3 @@
-### Kövrtelmény specifikáció
+### Követelmény specifikáció
 
 #### Áttekintés
